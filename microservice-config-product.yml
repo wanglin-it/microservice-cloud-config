@@ -69,3 +69,5 @@ eureka:
 
 emp:
   name: wangwu
+  
+  --test
